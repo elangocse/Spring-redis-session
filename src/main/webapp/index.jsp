@@ -6,9 +6,9 @@
     <title>Remove Session State Lab</title>
 </head>
 
-<body>
-<h1>Welcome to the PAL session lab</h1>
-<h2>Please login below:</h2>
+<body>ssion lab</h1>
+<h2>Please login below:</
+<h1>Welcome to the PAL seh2>
 
 <form action="login" method="post">
     <label for="username">
